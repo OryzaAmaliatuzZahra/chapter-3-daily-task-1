@@ -1,0 +1,17 @@
+{
+  "name": "node-js-express-practice",
+  "version": "1.0.0",
+  "description": "this is practice project for node js express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "oryza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
